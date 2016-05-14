@@ -64,7 +64,7 @@ dd3: 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 4 4 0 0 4 0 1 1
 dd4: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
 dd5: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
 vcganhouc: .asciiz "\n"
-vcganhou: .asciiz "Você ganhou! Parabéns!!!"
+vcganhou: .asciiz "VocÃª ganhou! ParabÃ©ns!!!"
 
 .text
 
